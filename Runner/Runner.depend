@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1549647776 source:/Users/anaya/Dropbox/Runner/main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	"slist.h"
+
+1549638341 /Users/anaya/Dropbox/slist/slist.h
+	<iostream>
+	<string>
+
+1549650068 source:/Users/anaya/Desktop/Runner/main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	"slist.h"
+
+1549638341 /Users/anaya/Desktop/slist/slist.h
+	<iostream>
+	<string>
+
